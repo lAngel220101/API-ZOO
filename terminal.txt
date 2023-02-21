@@ -1,0 +1,10 @@
+Creamos las carpetas de src, src/controllers y src/routes
+creamos index.js
+npm init -y
+npm install express
+node src/index.js
+
+// Para que nos instale nodemon solo en nuestro entorno de desarrollo
+npm install nodemon -D 
+
+npm install pg
